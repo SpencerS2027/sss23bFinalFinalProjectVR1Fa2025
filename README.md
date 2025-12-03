@@ -1,8 +1,6 @@
 I have chosen the Buddha, once again, as inspirational context for this game. The first level is a trial to prove your worth, and the second level is an oppurtunity to cast out the things covered in the 5 beginner vows barring : sexual immorality, killing, drug use, lying, and stealing. Physically, they appeared as a bed, an axe, a cake, a megaphone, and gloves, respectively.
 
-I hope you enjoy my unity animation and the trash basketball.
-
-I coded the trash basketball fires with claude.
+I hope you enjoy my unity animation and the throwing game (find the extra cakes!)
 
 assets used:
 axe https://polyhaven.com/a/wooden_axe_03,
