@@ -11,3 +11,6 @@ trashcan polyhaven.com/a/metal_trash_can,
 space background (CC license) https://www.goodfon.com/space/wallpaper-hubble-hubble-space-telescope.html,
 linoleum texture https://polyhaven.com/a/old_linoleum_flooring_01,
 checker pattern https://polyhaven.com/a/curly_teddy_checkered,
+grass https://polyhaven.com/a/rocky_terrain
+gravelly https://polyhaven.com/a/plastered_wall_05
+snowfall https://polyhaven.com/a/snow_field_aerial
